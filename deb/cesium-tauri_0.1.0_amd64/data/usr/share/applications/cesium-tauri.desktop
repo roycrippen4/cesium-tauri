@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=
+Comment=A Tauri App
+Exec=cesium-tauri
+Icon=cesium-tauri
+Name=cesium-tauri
+Terminal=false
+Type=Application
